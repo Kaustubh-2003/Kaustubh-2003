@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kaustubhpandey44@gmail.com**
 
-- ⚡ Fun fact **Dedicated CSE student with a passion for coding and innovation, reflected in my thriving GitHub portfolio**
+- ⚡  **Dedicated CSE student with a passion for coding and innovation, reflected in my thriving GitHub portfolio**
 
 <h3 align="left">Connect with me:</h3>
 <img alt="code" src="https://github.com/Kaustubh-2003/Kaustubh-2003/assets/100949698/d22bdc5d-a4d2-44d2-9c64-c00893f72900" width="250px" height="180px"align="right">
