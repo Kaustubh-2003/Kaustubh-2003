@@ -54,8 +54,9 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kaustubh-2003/Kaustubh-2003/output/snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Kaustubh-2003/Kaustubh-2003/d787c8a599051b5a3a558d85ca55b686c74bf9d3/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
+
 
 <div align="center">
   <h2>🎧 Spotify Playing</h2>
