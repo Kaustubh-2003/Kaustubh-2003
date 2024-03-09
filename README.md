@@ -1,10 +1,9 @@
 
-
-<h1 align="center">
+<h1 align="center" style="color: #0077ff; text-shadow: 2px 2px 5px #87CEFA;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kaustubh+Pandey!;" />
 </h1>
 
-<h3 align="center">Empowering Innovation Through Code: Elevating Technical Excellence on GitHub</h3>
+<h3 align="center" style="color: #0077ff; text-shadow: 2px 2px 5px #87CEFA;">Empowering Innovation Through Code: Elevating Technical Excellence on GitHub</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaustubh-2003&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh-2003" />
@@ -15,9 +14,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaustubh-2003&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
-<h2 align="center">Hi 👋! My name is Kaustubh Pandey and I'm a FullStack Developer from Lucknow.</h2>
+<h2 align="center" style="color: #0077ff; text-shadow: 2px 2px 5px #87CEFA;">Hi 👋! My name is Kaustubh Pandey and I'm a FullStack Developer from Lucknow.</h2>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center" style="color: #0077ff; text-shadow: 2px 2px 5px #87CEFA;">Connect with me:</h3>
 <p align="center">
   <a href="mailto:kaustubhpandey44@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=red&style=for-the-badge" height="35" alt="Gmail" />
@@ -36,7 +35,7 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center" style="color: #0077ff; text-shadow: 2px 2px 5px #87CEFA;">Languages and Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
@@ -51,10 +50,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="30" alt="SPSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-</div>
+</div
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kaustubh-2003/Kaustubh-2003/d787c8a599051b5a3a558d85ca55b686c74bf9d3/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Kaustubh-2003/Kaustubh-2003/d787c8a599051b5a3a558d85ca55b686c74bf9d3/github-contribution-grid-snake.svg" alt="Snake Animation" style="filter: drop-shadow(0 0 5px #0077ff); background-color: #e0f3ff; border-radius: 5px; padding: 10px;" />
 </p>
 
 
