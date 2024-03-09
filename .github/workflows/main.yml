@@ -1,3 +1,16 @@
-- uses: Platane/snk@v3
-  with:
-    github_user_name: Kaustubh-2003
+name: Snake Animation
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Kaustubh-2003
+
+      # Add more steps if needed
